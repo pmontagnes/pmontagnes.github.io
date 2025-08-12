@@ -22,7 +22,7 @@ repository               : "pmontagnes/pmontagnes.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
- # avatar           : "profile.png"
+  avatar           : "profile.png"
   name             : "B. Pablo Montagnes"
   # pronouns         : # example: "she/her"  
   bio              : "Associated Professor of Poltiical Science and Data and Decision Sciences"
